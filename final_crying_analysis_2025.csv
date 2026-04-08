@@ -1,0 +1,96 @@
+date,description,cry_level,cry_level_numeric,knn_sentiment_compound,knn_sentiment_cluster,knn_predicted_label,lexicon_sentiment_score
+2025-01-02,boromir(fict) died in lotr,medium,2,-0.5574,0,0,-1
+2025-01-03,"""it's your Sam""(fict)",small,1,0.0,2,2,0
+2025-01-03,Frodo(fict) leaving Sam(fict),small,1,0.0,2,2,0
+2025-01-03,Gandalf(fict) describing death,small,1,-0.5994,0,0,-1
+2025-01-05,missing partner,small,1,-0.296,0,0,-1
+2025-01-07,mother posting about me,small,1,0.0,2,2,0
+2025-01-13,Bestfriend said something funny and I'm sick,small,1,-0.1027,2,2,0
+2025-01-13,flat tire and shitty day,big,3,-0.5574,1,1,-1
+2025-01-15,pit orcehstra and feeling unsupported,big,3,-0.296,1,1,0
+2025-01-18,fighting with mother,medium,2,-0.3612,1,1,-1
+2025-01-27,bad day but partner made me laugh,small,1,0.5647,2,2,0
+2025-02-10,tried to make it up with mother,medium,2,0.0,1,1,0
+2025-02-15,Marvel concert,small,1,0.4215,2,2,1
+2025-03-06,feeling alone,small,1,-0.128,2,2,0
+2025-03-07,Fight with Partner,medium,2,-0.3818,1,1,-1
+2025-03-29,Cast party for pit orchestra,medium,2,0.4019,1,1,1
+2025-03-31,body insecurities,small,1,-0.4215,0,0,-1
+2025-04-11,Fili(fict) dies,small,1,0.0,2,2,0
+2025-04-11,Kili(fict) dies,medium,2,0.0,1,1,0
+2025-04-11,Thorin(fict) dies,small,1,0.0,2,2,0
+2025-04-15,Anakin(fict) kills those kids,small,1,-0.5423,0,0,-1
+2025-04-08,obi wan(fict) died,small,1,-0.5574,0,0,-1
+2025-04-29,felt like a burden,small,1,-0.1027,2,2,0
+2025-05-04,gets blamed for siter's mistakes again,medium,2,-0.6808,0,0,-2
+2025-05-07,Bad grades and everything at once,big,3,-0.5423,1,1,-1
+2025-05-09,APUSH test,big,3,0.0,1,1,0
+2025-05-13,Graduation,small,1,0.0,2,2,0
+2025-05-24,haymitch (fict) getting reaped and thinking about Lenore(fict),small,1,0.0,2,2,0
+2025-05-24,LOUELLA (fict),small,1,0.0,2,2,0
+2025-05-24,haymitch (fict) meeting mags (fict),small,1,0.0,2,2,0
+2025-05-24,partner got me legos!!,medium,2,0.0,1,1,0
+2025-05-24,friend let the cat into my room and now my favorite blanket is covered in fur and it's everywhere,small,1,0.7351,2,2,2
+2025-05-26,Haymitch's(fict) parents die,small,1,-0.5994,0,0,-1
+2025-05-26,Finished sunrise on the reaping,medium,2,0.0,1,1,0
+2025-05-26,Partner made me laugh,small,1,0.5574,2,2,1
+2025-05-31,Edwin Bridgerton(fict) died,small,1,-0.5574,0,0,-1
+2025-06-01,College stress,small,1,-0.4215,0,0,-1
+2025-06-03,Rue(fict) died hunger games,small,1,-0.6808,0,0,-2
+2025-06-06,"""not the Mockingjay, just Katniss""(fict)",small,1,0.0,2,2,0
+2025-06-07,I'm sick and Daphne(fict) had a baby,small,1,-0.5106,0,0,-1
+2025-06-08,Sister and sister 2 being mean,medium,2,0.0,1,1,0
+2025-06-09,Partner leaving,small,1,0.0,2,2,0
+2025-06-15,Hearing friends's News,medium,2,0.0,1,1,1
+2025-06-20,sister and my putty and life,medium,2,0.0,1,1,0
+2025-06-22,Watching Sinners,small,1,0.0,2,2,0
+2025-06-27,friends's letter,small,1,0.0,2,2,1
+2025-06-30,Learning we might move,small,1,0.0,2,2,0
+2025-07-03,Thinking about people dying,medium,2,0.0,1,1,0
+2025-07-06,Going through photo albums,medium,2,0.0,1,1,0
+2025-07-06,Partners's wedding tradition,big,3,0.0,1,1,0
+2025-07-09,wait for me,medium,2,0.0,1,1,0
+2025-07-09,love song,small,1,0.6369,2,2,1
+2025-07-09,Orpheus(fict) turns around,medium,2,0.0,1,1,0
+2025-07-12,Thinking about Hadestown,medium,2,0.0,1,1,0
+2025-07-16,College stress,small,1,-0.4215,0,0,-1
+2025-08-03,Partner leaving,small,1,0.0,2,2,0
+2025-08-04,college stress,small,1,-0.4215,0,0,-1
+2025-08-06,dogs die,small,1,-0.5994,0,0,-1
+2025-08-08,thought my truck caught fire,small,1,-0.34,0,0,-1
+2025-08-10,Broke up with Partner,big,3,-0.4215,1,1,-1
+2025-08-11,Got back together and I felt awful,big,3,-0.4588,1,1,-1
+2025-08-13,talking things over,medium,2,0.0,1,1,0
+2025-08-18,Partner left for college,medium,2,0.0,1,1,0
+2025-08-29,guy has seizure,small,1,0.0,2,2,0
+2025-08-31,long distance is hard,medium,2,-0.1027,1,1,-1
+2025-08-29,last first football game,small,1,0.0,2,2,0
+2025-09-12,Friend and acquaintance,big,3,0.4939,1,1,1
+2025-09-23,Friend gave me the csribiner,small,1,0.4939,2,2,1
+2025-10-10,Friend brought me a muffin,small,1,0.4939,2,2,1
+2025-10-10,band is hard,big,3,-0.1027,1,1,-1
+2025-10-14,Sister and Partner,medium,2,0.0,1,1,0
+2025-10-15,Partner and Sister and stress and everything,medium,2,-0.4215,1,1,-1
+2025-10-19,Talking with father about stress and being overwhelmed,medium,2,-0.3818,1,1,-2
+2025-10-19,maybe couldn't visit Partner,medium,2,0.0,1,1,0
+2025-10-19,talking about Sister,medium,2,0.0,1,1,0
+2025-10-24,candlelight,small,1,0.0,2,2,0
+2025-10-25,state run,big,3,0.0,1,1,0
+2025-10-26,I'm done,big,3,0.0,1,1,0
+2025-10-26,telling partner about state,small,1,0.0,2,2,0
+2025-11-01,College app stress,small,1,-0.4215,0,0,-1
+2025-11-01,after submitting the apps,medium,2,0.0,1,1,0
+2025-11-03,bad haircut,medium,2,-0.5423,0,0,-1
+2025-11-08,stress about interview,small,1,-0.4215,0,0,-1
+2025-11-08,prepping for interview,small,1,0.0,2,2,0
+2025-11-09,interview stress,small,1,-0.4215,0,0,-1
+2025-11-17,college stress,medium,2,-0.4215,1,1,-1
+2025-11-19,Sister fucked up my audition video,small,1,-0.6597,0,0,-1
+2025-11-25,wetzels,small,1,0.0,2,2,0
+2025-11-26,leaving California,medium,2,0.0,1,1,0
+2025-11-29,the 13 die,small,1,-0.5994,0,0,-1
+2025-11-29,Aelin forges the lock,medium,2,0.0,1,1,0
+2025-12-25,Peter pan ride,small,1,0.0,2,2,0
+2025-12-28,listening to Honor To Us All,small,1,0.4939,2,2,1
+2025-12-28,partners mom said some hurtful stuff,medium,2,-0.5267,0,0,-1
+2025-12-29,literally no reason whatsoever,small,1,-0.296,0,0,-1
